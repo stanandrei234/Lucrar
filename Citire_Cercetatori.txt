@@ -1,0 +1,16 @@
+cercetator222
+ax
+2
+1
+cercetator3
+bx
+3
+3
+cercetator3
+cx
+3
+2
+cercetator3
+dx
+4
+2
